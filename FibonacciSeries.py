@@ -1,6 +1,6 @@
 fibonacci_cache = {}
 
-top = input("Number limit to the series:")
+top = input("Numero limite:")
 top = int(top)
 
 def fibonacci(n):

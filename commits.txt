@@ -1,0 +1,11 @@
+commit 84999b61a6b4d2b55a7d2b5b9e3c337f3149352d
+Author: Lalo Zavala <elalozr@gmail.com>
+Date:   Sun Apr 2 16:31:43 2017 -0500
+
+    Cambio a español
+
+commit fa1f1705b389a10049bbf0da9deb11856c7bbf1f
+Author: Lalo Zavala <elalozr@gmail.com>
+Date:   Sun Apr 2 16:30:07 2017 -0500
+
+    Error de ortografia
